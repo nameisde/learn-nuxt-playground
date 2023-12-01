@@ -5,7 +5,7 @@ import type { Defu } from 'defu'
 
 declare const inlineConfig = {
   "nuxt": {
-    "buildId": "dev"
+    "buildId": "64eb9f62-2f28-4005-a525-98fcb6d28f43"
   }
 }
 type ResolvedAppConfig = Defu<typeof inlineConfig, []>
