@@ -31,4 +31,5 @@ export { useUnwrap } from '../node_modules/.pnpm/@nuxt+content@2.9.0_nuxt@3.8.2+
 export { fetchContentNavigation } from '../node_modules/.pnpm/@nuxt+content@2.9.0_nuxt@3.8.2+vue@3.3.9/node_modules/@nuxt/content/dist/runtime/legacy/composables/navigation';
 export { flatUnwrap as unwrapSlot } from '../node_modules/.pnpm/@nuxtjs+mdc@0.2.8/node_modules/@nuxtjs/mdc/dist/runtime/utils/node';
 export { useColorMode } from '../node_modules/.pnpm/@nuxtjs+color-mode@3.3.2/node_modules/@nuxtjs/color-mode/dist/runtime/composables';
+export { useNuxtDevTools } from '../node_modules/.pnpm/@nuxt+devtools@1.0.4_nuxt@3.8.2+vite@5.0.4/node_modules/@nuxt/devtools/dist/runtime/use-nuxt-devtools';
 export { definePageMeta } from '../node_modules/.pnpm/nuxt@3.8.2_ww7ezt77jizkco5l7knibxh4lm/node_modules/nuxt/dist/pages/runtime/composables';

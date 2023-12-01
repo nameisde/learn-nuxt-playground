@@ -52,7 +52,7 @@
         "../public/*"
       ],
       "#mdc-imports": [
-        "./mdc-imports"
+        "./file:/Users/nameisde/Documents/Development/Nuxt/learn-nuxt-playground/.nuxt/mdc-imports"
       ],
       "#color-mode-options": [
         "./color-mode-options"
